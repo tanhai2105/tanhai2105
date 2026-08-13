@@ -30,8 +30,6 @@ Hi there, I'm **Tan Hai**. I am a **Backend Engineer** focused on designing secu
 
 ---
 
-# 📊 GitHub Stats:
+# 📁 Featured Project:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanhai2105&show_icons=true&theme=tokyonight" alt="Tan Hai's GitHub Stats" />
-</p>
+[![ai-study-hub-api](https://github-readme-stats.vercel.app/api/pin/?username=SWP-SUM26-AI-STUDY-HUB&repo=ai-study-hub-api&theme=tokyonight)](https://github.com/SWP-SUM26-AI-STUDY-HUB/ai-study-hub-api)
