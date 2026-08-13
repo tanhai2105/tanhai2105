@@ -30,6 +30,3 @@ Hi there, I'm **Tan Hai**. I am a **Backend Engineer** focused on designing secu
 
 ---
 
-# 📁 Featured Project:
-
-[![ai-study-hub-api](https://github-readme-stats.vercel.app/api/pin/?username=SWP-SUM26-AI-STUDY-HUB&repo=ai-study-hub-api&theme=tokyonight)](https://github.com/SWP-SUM26-AI-STUDY-HUB/ai-study-hub-api)
